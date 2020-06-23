@@ -1,5 +1,5 @@
 # FirstProject
-DeveoperSocialNetwork
+Developer Social Network
 Web App with users signup, login, create profile like education, job
 experience,show github five repos just by providing your github username
 etc. Users cancreate a post for other developers where other developers
